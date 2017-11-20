@@ -1,8 +1,6 @@
 # Getting-and-Cleaning-Data-Peer-Project
 course project for Coursera "Getting and Cleaning Data" peer to peer assignment
 
-This is the course project for the Getting and Cleaning Data Coursera course. 
-
 The R script, run_analysis.R, does the following
 1) Download the dataset if it does not already exist in the working directory
 2) Load the activity and feature info
